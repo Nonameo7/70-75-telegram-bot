@@ -5,7 +5,7 @@ import database
 import json
 
 # Создаем объект бота
-bot = telebot.TeleBot('8266782515:AAFd4XxAT2TFP1i4iYxoIQZsKJCVSimTXyU')
+bot = telebot.TeleBot('Token')
 
 
 
